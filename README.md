@@ -1,6 +1,5 @@
 # Sarvis Spring Boot Starter
 
-[![GitHub tag](https://img.shields.io/github/v/tag/AkashKobal/sarvis-spring-boot-starter)](https://github.com/AkashKobal/sarvis-spring-boot-starter/tags)
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.akashkobal/sarvis-spring-boot-starter)](https://central.sonatype.com/artifact/io.github.akashkobal/sarvis-spring-boot-starter)
 [![Java](https://img.shields.io/badge/Java-17+-blue)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3+-brightgreen)](https://spring.io/projects/spring-boot)
@@ -242,4 +241,5 @@ Report issues:
 https://github.com/AkashKobal/sarvis-spring-boot-starter/issues
 
 ---
+
 
