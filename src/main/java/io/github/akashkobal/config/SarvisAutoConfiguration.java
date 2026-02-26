@@ -1,4 +1,4 @@
-package io.github.sarvis.config;
+package io.github.akashkobal.config;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
@@ -6,8 +6,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.client.RestTemplate;
 
-import io.github.sarvis.client.SarvisClient;
-import io.github.sarvis.properties.SarvisProperties;
+import io.github.akashkobal.client.SarvisClient;
+import io.github.akashkobal.properties.SarvisProperties;
 
 @Configuration(proxyBeanMethods = false)
 @EnableConfigurationProperties(SarvisProperties.class)

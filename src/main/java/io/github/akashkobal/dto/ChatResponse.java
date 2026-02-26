@@ -1,4 +1,4 @@
-package io.github.sarvis.dto;
+package io.github.akashkobal.dto;
 
 import java.util.List;
 

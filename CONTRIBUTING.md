@@ -90,7 +90,7 @@ Example dependency:
 
 ```xml
 <dependency>
-  <groupId>io.github.AkashKobal</groupId>
+  <groupId>io.github.akashkobal</groupId>
   <artifactId>sarvis-spring-boot-starter</artifactId>
   <version>0.0.1</version>
 </dependency>

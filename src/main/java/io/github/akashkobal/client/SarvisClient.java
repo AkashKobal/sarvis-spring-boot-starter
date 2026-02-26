@@ -1,11 +1,11 @@
-package io.github.sarvis.client;
+package io.github.akashkobal.client;
 
 import org.springframework.http.*;
 import org.springframework.web.client.RestTemplate;
 
-import io.github.sarvis.dto.ChatRequest;
-import io.github.sarvis.dto.ChatResponse;
-import io.github.sarvis.properties.SarvisProperties;
+import io.github.akashkobal.dto.ChatRequest;
+import io.github.akashkobal.dto.ChatResponse;
+import io.github.akashkobal.properties.SarvisProperties;
 
 import java.util.List;
 

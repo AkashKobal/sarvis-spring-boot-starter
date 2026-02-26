@@ -1,7 +1,7 @@
 # Sarvis Spring Boot Starter
 
 [![GitHub tag](https://img.shields.io/github/v/tag/AkashKobal/sarvis-spring-boot-starter)](https://github.com/AkashKobal/sarvis-spring-boot-starter/tags)
-[![Maven Central](https://img.shields.io/maven-central/v/io.github.AkashKobal/sarvis-spring-boot-starter)](https://central.sonatype.com/artifact/io.github.AkashKobal/sarvis-spring-boot-starter)
+[![Maven Central](https://img.shields.io/maven-central/v/io.github.akashkobal/sarvis-spring-boot-starter)](https://central.sonatype.com/artifact/io.github.akashkobal/sarvis-spring-boot-starter)
 [![Java](https://img.shields.io/badge/Java-17+-blue)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3+-brightgreen)](https://spring.io/projects/spring-boot)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -37,7 +37,7 @@ Add dependency:
 
 ```xml
 <dependency>
-    <groupId>io.github.AkashKobal</groupId>
+    <groupId>io.github.akashkobal</groupId>
     <artifactId>sarvis-spring-boot-starter</artifactId>
     <version>0.0.1</version>
 </dependency>
@@ -168,7 +168,7 @@ public class DemoApplication {
 
 Artifact:
 
-https://central.sonatype.com/artifact/io.github.AkashKobal/sarvis-spring-boot-starter
+https://central.sonatype.com/artifact/io.github.akashkobal/sarvis-spring-boot-starter
 
 ---
 

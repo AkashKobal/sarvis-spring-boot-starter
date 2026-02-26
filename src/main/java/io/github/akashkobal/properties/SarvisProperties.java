@@ -1,4 +1,4 @@
-package io.github.sarvis.properties;
+package io.github.akashkobal.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

@@ -105,11 +105,13 @@ Please confirm the following before submitting:
 Provide example usage:
 
 ```java
-import io.github.sarvis.client.SarvisClient;
+import io.github.akashkobal.client.SarvisClient;
 
 SarvisClient client = ...;
 String response = client.chat("Hello");
-System.out.println(response);
+System.out.
+
+println(response);
 ```
 
 ---
