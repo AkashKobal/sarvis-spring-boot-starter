@@ -71,7 +71,7 @@ sarvis.model=sarvam-m
 Inject and use `SarvisClient`:
 
 ```java
-import io.github.sarvislabs.client.SarvisClient;
+import io.github.akashkobal.client.SarvisClient;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
@@ -242,3 +242,4 @@ Report issues:
 https://github.com/AkashKobal/sarvis-spring-boot-starter/issues
 
 ---
+
